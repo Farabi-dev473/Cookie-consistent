@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs"
+  },
   "dependencies": {
     "@cliqz/adblocker-puppeteer": "^1.26.7",
     "cross-fetch": "^4.0.0",
